@@ -34,7 +34,6 @@ Berikut adalah hasil analisis statis dari beberapa file output tools terhadap fi
 | **Code Section** | .text (0x402000 - 0x4b007c) |
 | **Ukuran Code** | 713,728 bytes (0xae400) |
 | **Pattern** | Tidak ditemukan kode yang jelas ter-obfuscate atau berbahaya |
-| **Status** | Output sangat besar, perlu analisis lebih lanjut |
 
 **Penjelasan Detail:**
 
@@ -861,4 +860,3 @@ file HnaZtD.exe
 **📊 Total analisis:** 9 files  
 **⏱️ Metode:** Static Analysis
 
-*Jika Anda membutuhkan penjelasan lebih detail pada salah satu bagian atau ingin melakukan analisis lanjutan, silakan sebutkan.*
