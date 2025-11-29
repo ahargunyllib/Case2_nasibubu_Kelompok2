@@ -1,10 +1,10 @@
 # Individual Contribution Report
 
-**Name:** Scorpian Erickda 
-**Student ID:** 225150200111061  
-**Group:** 2  
-**Case:** Malware Analysis – Linux Static Analysis Script  
-**Date:** 29 November 2025  
+- **Name:** Scorpian Erickda
+- **Student ID:** 225150200111061  
+- **Group:** 2  
+- **Case:** Malware Analysis – Linux Static Analysis Script  
+- **Date:** 29 November 2025  
 
 ---
 
@@ -289,5 +289,5 @@ This project significantly improved my skills in:
 ## Declaration
 I declare that the information provided in this contribution report is accurate and reflects my individual work and contribution.
 
-**Signature:** SScorpian Erickda  
+**Signature:** Scorpian Erickda  
 **Date:** 29-11-2025
