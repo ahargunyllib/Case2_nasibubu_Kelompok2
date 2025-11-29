@@ -161,7 +161,7 @@ Output:
 | Timeline | Dev → analysis → testing | 30% |
 | IoC List | Based on extracted strings | 40% |
 | Recommendations | Packer & import analysis | 25% |
-| Presentation Slides | IOC analysis section | 30% |
+| Presentation Slides | - | - |
 
 ---
 
